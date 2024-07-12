@@ -23,20 +23,17 @@ The Tableau dashboard provides the following features:
 ## Visualizations:
 1. **Season Selection Dropdown Table**:
    - Select a specific season from the dropdown to filter the analysis for that particular year.
-   ![Selection](https://github.com/user-attachments/assets/de07d56e-e3d4-419a-bb1c-1ec32e18b52a)
-
+   ![Selection](https://github.com/user-attachments/assets/97f11984-2627-4872-b021-7a1e7da510c6)
      
 2. **Horizontal Stacked Bar Graph**:
    - Shows the matches won based on the toss decision.
    - Categories include 'Field' and 'Bat'.
    ![Bar Graph](https://github.com/user-attachments/assets/8a2ca6be-0272-43e4-851c-3549bd3bbcdd)
  
-
 3. **Donut Chart**:
    - Illustrates the win percentage based on the toss decision.
    - Segments show the proportion of wins when opting to field versus bat.
    ![Donut](https://github.com/user-attachments/assets/591003e0-b5da-4748-9b44-ce3659f3483b)
-
 
 ## Usage
 1. To view the analysis, you can access the Tableau dashboard by following these steps:
@@ -48,7 +45,7 @@ Open the Tableau workbook (.twb or .twbx) in Tableau Desktop or Tableau Public.
 
 Can be viewed even with the below link :
 (NOTE: Due to varying screen size this may not be viewed accurately. So Cloning this repository is recomended!:)
-[IPL Analysis- Tableau](https://public.tableau.com/views/DSV_Project/IPLANALYSIS?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+[IPL Analysis- Tableau Online](https://public.tableau.com/views/DSV_Project/IPLANALYSIS?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Conclusion
 This analysis provides insightful visualizations and statistics about the IPL from 2008 to 2020. The Tableau dashboard allows users to interactively explore different facets of the tournament and gain a deeper understanding of the performance trends and patterns over the years.
