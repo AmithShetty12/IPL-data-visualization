@@ -23,6 +23,7 @@ The Tableau dashboard provides the following features:
 ## Visualizations:
 1. **Season Selection Dropdown Table**:
    - Select a specific season from the dropdown to filter the analysis for that particular year.
+     
    ![Selection](https://github.com/user-attachments/assets/97f11984-2627-4872-b021-7a1e7da510c6)
      
 2. **Horizontal Stacked Bar Graph**:
@@ -45,7 +46,6 @@ Open the Tableau workbook (.twb or .twbx) in Tableau Desktop or Tableau Public.
 
 Can be viewed even with the below link :
 (NOTE: Due to varying screen size this may not be viewed accurately. So Cloning this repository is recomended!:)
-
 [IPL Analysis- Tableau Online](https://public.tableau.com/views/DSV_Project/IPLANALYSIS?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Conclusion
