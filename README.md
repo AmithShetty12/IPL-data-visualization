@@ -40,6 +40,7 @@ The Tableau dashboard provides the following features:
 
 ## Usage
 1. To view the analysis, you can access the Tableau dashboard by following these steps:
+ 
  i. Clone the repository from GitHub.
     ```bash
     git clone <https://github.com/AmithShetty12/IPL-data-visualization>
@@ -47,7 +48,7 @@ The Tableau dashboard provides the following features:
  ii. Open the Tableau workbook (.twb or .twbx) in Tableau Desktop or Tableau Public.
 
 2. Can be viewed even with the below link(NOTE: Due to varying screen size this may not be viewed accurately. So Cloning this repository is recomended!:)
- ![IPL Analysis- Tableau](https://public.tableau.com/views/DSV_Project/IPLANALYSIS?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+ [IPL Analysis- Tableau](https://public.tableau.com/views/DSV_Project/IPLANALYSIS?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Conclusion
 This analysis provides insightful visualizations and statistics about the IPL from 2008 to 2020. The Tableau dashboard allows users to interactively explore different facets of the tournament and gain a deeper understanding of the performance trends and patterns over the years.
