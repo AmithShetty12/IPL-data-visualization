@@ -1,7 +1,7 @@
 # IPL Analysis using Tableau
 
-## Reviewer
-This project was reviewed by [Victor Ikechukwu Agughasi](https://github.com/Victor-Ikechukwu).
+## Superviser
+This project was supervised by [Victor Ikechukwu Agughasi](https://github.com/Victor-Ikechukwu).
 
 ## Overview
 This project provides an analysis of the Indian Premier League (IPL) from 2008 to 2020 using Tableau. The analysis includes various aspects of the tournament such as the most runs hit by the title winner of each year, the orange cap holder (most runs in a season), the purple cap holder (most wickets in a season), the overall tournament 6s and 4s hit in each year, and more.
